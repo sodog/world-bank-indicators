@@ -1,6 +1,3 @@
-# world-bank-indicators
-world-bank-indicators
-
 # World Bank Indicator Dictionary
 
 This project downloads the World Bank indicator catalog and builds:
