@@ -1,0 +1,8 @@
+# Data Folder
+
+This folder stores generated datasets such as:
+- World Bank indicator catalog (CSV)
+- Indicator dictionary (JSON)
+
+Files are not tracked by Git.
+Run the pipeline to regenerate them.
